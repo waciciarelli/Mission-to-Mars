@@ -7,3 +7,5 @@ This analysis project utilizes scraping to create a website to display informati
 * https://marshemispheres.com/
 
 While I could get everything to run properly, when trying to launch this app, I could not get my images or text to load properly even when using the code directky from the walked through section. Regardless, the results of my work are displayed below:
+
+![Website](https://github.com/waciciarelli/Mission-to-Mars/blob/main/website.png?raw=true)
